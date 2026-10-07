@@ -35,6 +35,7 @@ body {
 }
 
 .stack-context {
+  margin: 0 auto;
   font-size: 15px;
   color: #bfdbfe;
   max-width: 780px;
