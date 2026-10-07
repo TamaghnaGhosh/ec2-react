@@ -15,7 +15,7 @@ const DeployReactAppPage: React.FC = () => {
 
           <h1>Deploy React App to AWS EC2 with Nginx & GitHub Actions</h1>
 
-          <p>
+          <p className="stack-context">
             A simple step-by-step guide to deploying a React application on AWS
             EC2 using Nginx and GitHub Actions for automated deployment.
           </p>
